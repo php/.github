@@ -12,11 +12,3 @@ PHP is a popular general-purpose scripting language that is especially suited to
   * [Archives](https://news-web.php.net) - Archives of previous discussions available via web and NNTP
   * [Externals.io](https://externals.io) - A prettier view of the internals mailing list in threaded form (3rd party site)
 * [Get involved](https://www.php.net/get-involved) - Help make PHP better!
-
-<br>
-<p>This project is supported by:</p>
-<p>
-  <a href="https://www.digitalocean.com/">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="176px">
-  </a>
-</p>
